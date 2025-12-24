@@ -1,4 +1,4 @@
-# 🤖 Faceit Team Finder Bot
+# 🤖 Faceit Team Bot
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11%2B-blue" alt="Python">
@@ -52,4 +52,5 @@
 
 |Пример отображения статистики пользователя|
 > <img alt="Image" width="271" height="163" src="https://private-user-images.githubusercontent.com/251053501/530083449-6d0b0389-3686-425e-91e1-20c3f53fccb8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2MDk5MzksIm5iZiI6MTc2NjYwOTYzOSwicGF0aCI6Ii8yNTEwNTM1MDEvNTMwMDgzNDQ5LTZkMGIwMzg5LTM2ODYtNDI1ZS05MWUxLTIwYzNmNTNmY2NiOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyNFQyMDUzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MjQ2M2JkYzlhMGE0Zjk4YjdhZjFhNjI1OGM0OTIxMWFjZGExMTM3YjRiOTk5N2ZkOGJiOTExOGZlMTA2M2FlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.v2yni6oox6ZnwzJg4OXbxX9I-v1rZVIti2-n3vaEKQw">
+
 
